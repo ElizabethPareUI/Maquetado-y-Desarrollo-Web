@@ -1,0 +1,75 @@
+*{
+    padding: 0;
+    margin:0;
+}
+
+
+h1{
+    font-size: 0px;
+    color: blueviolet;
+
+}
+.menu{
+    padding-left: 40;
+}
+#logo img{
+    width: 400px;
+    margin-left: 600px;
+    padding-bottom: 300px;
+}
+body {
+    background-image: url("../img/flowersbg.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+}
+nav {
+    text-align: center; 
+}
+nav li{
+    display: inline;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+}
+nav li a{
+    font-size: 24px;
+    text-decoration: none;
+    line-height: 70px;
+    padding-left: 108px;
+    padding-right: 108px;
+    color: rgb(0, 0, 0);
+    background-color: rgb(159, 239, 144);
+
+}
+nav li a:hover{
+    color: white;
+    background-color: rgb(95, 11, 109);
+}
+.flower-imgs{
+    width: 360px;
+}
+.text-1{
+    font-size: 25px;
+    padding-left: 120px;
+    font-family: 'Bebas Neue', sans-serif;
+}
+.perfumepng{
+    margin-left: 800px;
+    margin-bottom: 500px;
+    position: float;
+}
+.flower-right{
+    padding-bottom: 10px;
+    padding-left: 1300px;
+}
+.flower-center{
+    position: center;
+    padding-top: 500px;
+}
+.banner img{
+    max-width: 70%;
+    position: middle;
+}
